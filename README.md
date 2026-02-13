@@ -1,5 +1,6 @@
 # Woodestic microsite scaffold
 
+<<<<<<< codex/create-microsite-with-placeholders-and-dockerfile-6fnc8o
 Statikus microsite sablon a csatolt design alapján, előkészített többnyelvűséggel, placeholder képekkel és Dockeres futtatással.
 
 ## Struktúra
@@ -22,6 +23,19 @@ Lokális tesztnél használható: `?lang=en`, `?lang=de`, stb.
 2. Az analytics script csak akkor töltődik be, ha a felhasználó elfogadja a cookie-kat.
 3. A választás `localStorage`-ben tárolódik (`cookieConsent`).
 
+=======
+Statikus microsite sablon a csatolt design alapján, előkészített többnyelvűséggel (HU/EN), placeholder képekkel és Dockeres futtatással.
+
+## Struktúra
+
+- `public/index.html` – oldal struktúra.
+- `public/assets/css/main.css` – stílusok.
+- `public/assets/js/i18n.js` – egyszerű kliens oldali i18n loader.
+- `public/locales/*.json` – fordítási kulcsok nyelvenként.
+- `public/assets/images/**` – képek helye placeholderrel.
+- `Dockerfile` + `docker/nginx/default.conf` – produkciós statikus kiszolgálás.
+
+>>>>>>> main
 ## Lokális futtatás
 
 ```bash

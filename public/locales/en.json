@@ -1,4 +1,5 @@
 {
+<<<<<<< codex/create-microsite-with-placeholders-and-dockerfile-6fnc8o
   "hero": {
     "title": "The Woodestic Games",
     "paragraph1": "Our passion is to bring joy into families’ everyday lives within minutes through handcrafted wooden board games, so that genuine human connections can thrive in this digital world.",
@@ -23,20 +24,48 @@
       "carrooka video",
       "carrom video"
     ]
+=======
+  "brand": {
+    "name": "Woodestic",
+    "tagline": "We revive wood"
+  },
+  "hero": {
+    "title": "The Woodestic Games",
+    "paragraph1": "Our passion is to bring joy into families' everyday lives through handcrafted wooden board games.",
+    "paragraph2": "Since introducing Woodestic Crokinole boards in 2012, we have continuously improved quality and appeal.",
+    "cta": "Click here"
+  },
+  "games": ["Crokinole", "Carrooka", "Carrom", "Shuffleboard", "And more"],
+  "badges": {
+    "years": "years",
+    "sold": "sold games"
+  },
+  "videos": {
+    "cta": "I wanna see them",
+    "items": ["crokinole video", "carrooka video", "carrom video"]
+>>>>>>> main
   },
   "testimonials": {
     "title": "Our customers said",
     "items": [
+<<<<<<< codex/create-microsite-with-placeholders-and-dockerfile-6fnc8o
       "“Recently I have discoverd the game crokinole and wanted to have a board of my own. By doing some research online I saw a lot of reviews in forums/youtube. Most of the time woodestic was praised as having the best crokinole board in europe.\nVisiting your website convinced me indeed that woodestic stands for quality & passion.\nThe board it self and the way you can compose it with all possible options blows away the competition and the board it self looks of very high quality!”\n\n~ Luis",
       "“It is really beautiful and I’m very pleased with it. Thank you so much for the little holders for the counters. Seriously thank you for the excellent customer service, you make a wonderful product but your service levels are above and beyond many that I have experienced in my life.“\n\n~ Robert",
       "“The board itself is even more wonderful in real life than in the pictures. I'm really happy about my choice for the pattern and the colors.\n\nSince receiving the board, I have played it will children >6 years, with 'hard core' board gamers, with my non-gamer partner, and with grandparents. Everyone loves it. In terms of board games, this is unique to me.\n\nThe board has a prominent place in my living room. I will send you a picture directly after this email.\n\nLooking forward to playing and cherishing this board for many more years.”\n\n~Wouter, Netherlands, Crokinole Elite",
       "\"\"\"Quick and friendly repsons, good communication. Product is super nice and has high quality. The special bag to storage your board and keep it safe is a must-have. My son and wife love this complete purchase!\"\" Yesss i recommend!\n\n~Iwan, Netherlands"
+=======
+      "\"Recently I discovered the game...\"\n- Luis",
+      "\"Beautiful quality and excellent customer service.\"\n- Robert",
+      "\"Even better in person than in photos.\"\n- Wouter",
+      "\"Quick, friendly responses and great product.\"\n- Iwan"
+>>>>>>> main
     ],
     "cta": "Show me!"
   },
   "footer": {
     "explore": "Check out all the magnificent Woodestic Games",
     "exploreCta": "Click here",
+<<<<<<< codex/create-microsite-with-placeholders-and-dockerfile-6fnc8o
     "links": [
       "Crokinole family",
       "Carrooka",
@@ -54,5 +83,10 @@
     "message": "We use cookies to run analytics and improve the site experience.",
     "accept": "Accept cookies",
     "decline": "Decline"
+=======
+    "links": ["Crokinole", "Carrooka", "Carrom", "Shuffleboard", "and more"],
+    "newsletter": "Get onBOARD with our newsletter.",
+    "subscribe": "Subscribe"
+>>>>>>> main
   }
 }

@@ -1,4 +1,5 @@
 {
+<<<<<<< codex/create-microsite-with-placeholders-and-dockerfile-6fnc8o
   "hero": {
     "title": "The Woodestic Games",
     "paragraph1": "Szenvedélyünk, hogy kézműves fa társasjátékokkal percek alatt örömöt vigyünk a családok mindennapjaiba.",
@@ -23,18 +24,46 @@
       "carrooka videó",
       "carrom videó"
     ]
+=======
+  "brand": {
+    "name": "Woodestic",
+    "tagline": "Új életet adunk a fának"
+  },
+  "hero": {
+    "title": "The Woodestic Games",
+    "paragraph1": "Szenvedélyünk, hogy kézműves fa társasjátékokkal hozzunk örömöt a családok mindennapjaiba.",
+    "paragraph2": "A 2012-ben indult Woodestic Crokinole táblák óta folyamatosan fejlesztjük termékeink minőségét és megjelenését.",
+    "cta": "Kattints ide"
+  },
+  "games": ["Crokinole", "Carrooka", "Carrom", "Shuffleboard", "És még sok más"],
+  "badges": {
+    "years": "év",
+    "sold": "eladott játék"
+  },
+  "videos": {
+    "cta": "Mutasd őket",
+    "items": ["crokinole videó", "carrooka videó", "carrom videó"]
+>>>>>>> main
   },
   "testimonials": {
     "title": "Vásárlóink mondták",
     "items": [
+<<<<<<< codex/create-microsite-with-placeholders-and-dockerfile-6fnc8o
       "Hamarosan magyar vásárlói vélemények...",
       "Hamarosan magyar vásárlói vélemények...",
       "Hamarosan magyar vásárlói vélemények...",
       "Hamarosan magyar vásárlói vélemények..."
+=======
+      "\"Pár hete fedeztem fel a játékot...\"\n- Luis",
+      "\"Gyönyörű minőség és kiváló ügyfélszolgálat.\"\n- Robert",
+      "\"A valóságban még szebb, mint a képeken.\"\n- Wouter",
+      "\"Gyors és barátságos válaszok, kiváló termék.\"\n- Iwan"
+>>>>>>> main
     ],
     "cta": "Mutasd!"
   },
   "footer": {
+<<<<<<< codex/create-microsite-with-placeholders-and-dockerfile-6fnc8o
     "explore": "Fedezd fel a csodás Woodestic játékokat",
     "exploreCta": "Kattints ide",
     "links": [
@@ -54,5 +83,12 @@
     "message": "Cookie-kat használunk analitikához és a jobb felhasználói élményhez.",
     "accept": "Elfogadom",
     "decline": "Elutasítom"
+=======
+    "explore": "Nézd meg a Woodestic játékokat",
+    "exploreCta": "Kattints ide",
+    "links": ["Crokinole", "Carrooka", "Carrom", "Shuffleboard", "és továbbiak"],
+    "newsletter": "Iratkozz fel hírlevelünkre.",
+    "subscribe": "Feliratkozás"
+>>>>>>> main
   }
 }
