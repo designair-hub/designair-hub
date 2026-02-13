@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "title": "Woodestic-spelen",
+    "paragraph1": "Vår passion är att på några minuter sprida glädje i familjers vardag med handgjorda brädspel i trä, så att äkta mänskliga relationer kan blomstra i denna digitala värld.",
+    "paragraph2": "Vi tror att livets yttersta mål är att uppleva meningsfulla och berikande erfarenheter. Sedan vi lanserade Woodestic Crokinole-bräden 2012 har vi kontinuerligt förbättrat våra produkters kvalitet och attraktionskraft. Vi är stolta över att skapa varje unikt bräde med omsorg.",
+    "cta": "Klicka här"
+  },
+  "games": [
+    "Crokinole",
+    "Carrooka",
+    "Carrom",
+    "Shuffleboard",
+    "Och mer"
+  ],
+  "badges": {
+    "over10Years": "över 10 år",
+    "over8000Sold": "över 8 000 sålda spel"
+  },
+  "videos": {
+    "cta": "Jag vill se dem",
+    "items": [
+      "crokinole video",
+      "carrooka video",
+      "carrom video"
+    ]
+  },
+  "testimonials": {
+    "title": "Vad våra kunder säger",
+    "items": [
+      "Nyligen upptäckte jag spelet Crokinole och ville ha ett eget bräde. När jag gjorde lite research online såg jag många recensioner på forum och YouTube. Oftast lovordades Woodestic som att ha det bästa Crokinole-brädet i Europa. Att besöka er hemsida övertygade mig verkligen om att Woodestic står för kvalitet och passion. Själva brädet och sättet man kan komponera det med alla möjliga alternativ överträffar konkurrenterna, och brädet ser ut att hålla mycket hög kvalitet! ~ Luis",
+      "Det är verkligen vackert och jag är mycket nöjd med det. Stort tack också för de små hållarna till brickorna. Seriöst, tack för den utmärkta kundservicen – ni skapar en fantastisk produkt, men er servicenivå överträffar allt jag tidigare upplevt i mitt liv. ~ Robert",
+      "Själva brädet är ännu mer fantastiskt i verkligheten än på bilderna. Jag är verkligen nöjd med mitt val av mönster och färger. Sedan jag fick brädet har jag spelat det med barn över 6 år, med ’hardcore’-brädspelare, med min partner som inte spelar, och med mor- och farföräldrar. Alla älskar det. När det gäller brädspel är detta unikt för mig. Brädet har en framträdande plats i mitt vardagsrum. Jag kommer att skicka en bild direkt efter detta mejl. Ser fram emot att spela och uppskatta detta bräde i många år till. ~ Wouter, Nederländerna, Crokinole Elite",
+      "Snabba och vänliga svar, bra kommunikation. Produkten är superfin och av hög kvalitet. Den speciella påsen för att förvara brädet och hålla det säkert är ett måste. Min son och fru älskar detta kompletta köp! Ja, jag rekommenderar det! ~ Iwan, Nederländerna"
+    ],
+    "cta": "Visa mig!"
+  },
+  "footer": {
+    "explore": "Upptäck alla magnifika Woodestic-spel",
+    "exploreCta": "Klicka här",
+    "links": [
+      "Crokinole Family",
+      "Carrooka",
+      "Carrom",
+      "Shuffleboard",
+      "PitRush",
+      "Sling",
+      "Puff Billiards Mini",
+      "& fler spel kommer snart"
+    ],
+    "newsletter": "Gå med i vårt nyhetsbrev.",
+    "subscribe": "Prenumerera"
+  },
+  "cookie": {
+    "message": "Vi använder cookies för analys och för att förbättra webbplatsupplevelsen.",
+    "accept": "Acceptera",
+    "decline": "Avböj"
+  }
+}

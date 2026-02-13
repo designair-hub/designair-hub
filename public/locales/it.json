@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "title": "I Giochi Woodestic",
+    "paragraph1": "La nostra passione è portare gioia nella vita quotidiana delle famiglie in pochi minuti grazie a giochi da tavolo in legno artigianali, così che le vere connessioni umane possano prosperare in questo mondo digitale.",
+    "paragraph2": "Crediamo che l’obiettivo ultimo della vita sia vivere esperienze gratificanti. Dal lancio dei tavoli Woodestic Crokinole nel 2012, abbiamo continuamente migliorato la qualità e l’appeal dei nostri prodotti. Siamo orgogliosi di realizzare ogni tavolo unico con cura.",
+    "cta": "Clicca qui"
+  },
+  "games": [
+    "Crokinole",
+    "Carrooka",
+    "Carrom",
+    "Shuffleboard",
+    "E altro ancora"
+  ],
+  "badges": {
+    "over10Years": "oltre 10 anni",
+    "over8000Sold": "oltre 8.000 giochi venduti"
+  },
+  "videos": {
+    "cta": "Voglio vederli",
+    "items": [
+      "video crokinole",
+      "video carrooka",
+      "video carrom"
+    ]
+  },
+  "testimonials": {
+    "title": "Cosa dicono i nostri clienti",
+    "items": [
+      "Recentemente ho scoperto il gioco Crokinole e volevo avere un mio tavolo. Facendo delle ricerche online ho visto molte recensioni su forum e YouTube. La maggior parte delle volte Woodestic è stato elogiato come il miglior tavolo di Crokinole in Europa. Visitare il vostro sito mi ha convinto che Woodestic rappresenta davvero qualità e passione. Il tavolo stesso e il modo in cui si può personalizzare con tutte le opzioni disponibili superano la concorrenza e il tavolo appare di altissima qualità! ~ Luis",
+      "È davvero bellissimo e ne sono molto soddisfatto. Grazie mille anche per i piccoli supporti per le pedine. Davvero, grazie per l’eccellente servizio clienti: create un prodotto meraviglioso, ma il vostro livello di servizio supera di gran lunga tutto ciò che ho conosciuto nella mia vita. ~ Robert",
+      "Il tavolo è ancora più meraviglioso nella realtà rispetto alle foto. Sono davvero felice della mia scelta per il motivo e i colori. Da quando ho ricevuto il tavolo, ci ho giocato con bambini sopra i 6 anni, con giocatori “hardcore”, con il mio partner non giocatore e con i nonni. Tutti lo adorano. Per quanto riguarda i giochi da tavolo, per me è unico. Il tavolo ha un posto di rilievo nel mio soggiorno. Vi invierò una foto subito dopo questa email. Non vedo l’ora di giocare e custodire questo tavolo per molti anni a venire. ~ Wouter, Netherlands, Crokinole Elite",
+      "Risposte rapide e amichevoli, buona comunicazione. Il prodotto è super bello e di alta qualità. La borsa speciale per conservare il tavolo e tenerlo al sicuro è un must-have. Mio figlio e mia moglie adorano questo acquisto completo! Sììì, lo consiglio! ~ Iwan, Netherlands"
+    ],
+    "cta": "Mostrami!"
+  },
+  "footer": {
+    "explore": "Scopri tutti i magnifici giochi Woodestic",
+    "exploreCta": "Clicca qui",
+    "links": [
+      "Crokinole Family",
+      "Carrooka",
+      "Carrom",
+      "Shuffleboard",
+      "PitRush",
+      "Sling",
+      "Puff Billiards Mini",
+      "& altri in arrivo"
+    ],
+    "newsletter": "Iscriviti alla nostra newsletter.",
+    "subscribe": "Iscriviti"
+  },
+  "cookie": {
+    "message": "Usiamo i cookie per analytics e per migliorare l’esperienza del sito.",
+    "accept": "Accetta",
+    "decline": "Rifiuta"
+  }
+}

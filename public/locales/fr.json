@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "title": "Les jeux Woodestic",
+    "paragraph1": "Notre passion est d’apporter de la joie dans le quotidien des familles en quelques minutes grâce à des jeux de société en bois fabriqués à la main, afin que de véritables liens humains puissent s’épanouir dans ce monde numérique.",
+    "paragraph2": "Nous croyons que le but ultime de la vie est de vivre des expériences enrichissantes. Depuis l’introduction des plateaux Woodestic Crokinole en 2012, nous avons constamment amélioré la qualité et l’attrait de nos produits. Nous sommes fiers de créer chaque plateau unique avec soin.",
+    "cta": "Cliquez ici"
+  },
+  "games": [
+    "Crokinole",
+    "Carrooka",
+    "Carrom",
+    "Shuffleboard",
+    "Et plus encore"
+  ],
+  "badges": {
+    "over10Years": "plus de 10 ans",
+    "over8000Sold": "plus de 8 000 jeux vendus"
+  },
+  "videos": {
+    "cta": "Je veux les voir",
+    "items": [
+      "vidéo crokinole",
+      "vidéo carrooka",
+      "vidéo carrom"
+    ]
+  },
+  "testimonials": {
+    "title": "Ce que disent nos clients",
+    "items": [
+      "« Récemment, j’ai découvert le jeu Crokinole et j’ai voulu avoir mon propre plateau. En faisant des recherches en ligne, j’ai vu beaucoup d’avis sur des forums et YouTube. La plupart du temps, Woodestic était salué comme ayant le meilleur plateau de Crokinole en Europe.\nLa visite de votre site m’a convaincu que Woodestic représente vraiment la qualité et la passion.\nLe plateau lui-même et la manière dont on peut le composer avec toutes les options possibles surpassent la concurrence, et le plateau paraît de très haute qualité ! »\n\n~ Luis",
+      "« Il est vraiment magnifique et j’en suis très satisfait. Merci beaucoup pour les petits supports pour les pions. Sérieusement, merci pour l’excellent service client : vous créez un produit merveilleux, mais votre niveau de service dépasse largement tout ce que j’ai pu connaître. »\n\n~ Robert",
+      "« Le plateau est encore plus merveilleux en vrai que sur les photos. Je suis vraiment heureux de mon choix de motif et de couleurs.\nDepuis que j’ai reçu le plateau, j’y ai joué avec des enfants de plus de 6 ans, avec des joueurs de plateau ‘hardcore’, avec mon partenaire non-joueur et avec mes grands-parents. Tout le monde l’adore. Pour moi, c’est unique dans le monde des jeux de société.\nLe plateau occupe une place de choix dans mon salon. Je vous enverrai une photo juste après cet email.\nJ’ai hâte de jouer et de chérir ce plateau pendant de nombreuses années. »\n\n~ Wouter, Netherlands, Crokinole Elite",
+      "« Réponses rapides et amicales, bonne communication. Le produit est superbe et de grande qualité. Le sac spécial pour ranger le plateau et le protéger est un must-have. Mon fils et ma femme adorent cet achat complet ! Ouiii, je recommande ! »\n\n~ Iwan, Netherlands"
+    ],
+    "cta": "Montre-moi !"
+  },
+  "footer": {
+    "explore": "Découvrez tous les magnifiques jeux Woodestic",
+    "exploreCta": "Cliquez ici",
+    "links": [
+      "Crokinole Family",
+      "Carrooka",
+      "Carrom",
+      "Shuffleboard",
+      "PitRush",
+      "Sling",
+      "Puff Billiards Mini",
+      "& bien d’autres à venir"
+    ],
+    "newsletter": "Rejoignez notre newsletter.",
+    "subscribe": "S’abonner"
+  },
+  "cookie": {
+    "message": "Nous utilisons des cookies pour l’analytics et l’amélioration de l’expérience du site.",
+    "accept": "Accepter",
+    "decline": "Refuser"
+  }
+}
