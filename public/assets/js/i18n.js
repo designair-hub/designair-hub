@@ -32,6 +32,7 @@ async function loadLocale(lang) {
 
   i18nNodes.forEach((node) => {
     const value = getByPath(locale, node.dataset.i18n);
+    const value = getByPath(locale, node.dataset.i18n);
     if (typeof value === 'string') {
       node.textContent = value;
     }
