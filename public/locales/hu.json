@@ -1,0 +1,38 @@
+{
+  "brand": {
+    "name": "Woodestic",
+    "tagline": "Új életet adunk a fának"
+  },
+  "hero": {
+    "title": "The Woodestic Games",
+    "paragraph1": "Szenvedélyünk, hogy kézműves fa társasjátékokkal hozzunk örömöt a családok mindennapjaiba.",
+    "paragraph2": "A 2012-ben indult Woodestic Crokinole táblák óta folyamatosan fejlesztjük termékeink minőségét és megjelenését.",
+    "cta": "Kattints ide"
+  },
+  "games": ["Crokinole", "Carrooka", "Carrom", "Shuffleboard", "És még sok más"],
+  "badges": {
+    "years": "év",
+    "sold": "eladott játék"
+  },
+  "videos": {
+    "cta": "Mutasd őket",
+    "items": ["crokinole videó", "carrooka videó", "carrom videó"]
+  },
+  "testimonials": {
+    "title": "Vásárlóink mondták",
+    "items": [
+      "\"Pár hete fedeztem fel a játékot...\"\n- Luis",
+      "\"Gyönyörű minőség és kiváló ügyfélszolgálat.\"\n- Robert",
+      "\"A valóságban még szebb, mint a képeken.\"\n- Wouter",
+      "\"Gyors és barátságos válaszok, kiváló termék.\"\n- Iwan"
+    ],
+    "cta": "Mutasd!"
+  },
+  "footer": {
+    "explore": "Nézd meg a Woodestic játékokat",
+    "exploreCta": "Kattints ide",
+    "links": ["Crokinole", "Carrooka", "Carrom", "Shuffleboard", "és továbbiak"],
+    "newsletter": "Iratkozz fel hírlevelünkre.",
+    "subscribe": "Feliratkozás"
+  }
+}
