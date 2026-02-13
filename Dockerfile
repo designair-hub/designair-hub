@@ -1,7 +1,5 @@
-FROM nginx:1.27-alpine
+FROM nginx:alpine
 
-COPY docker/nginx/default.conf /etc/nginx/conf.d/default.conf
-COPY public /usr/share/nginx/html
+RUN rm -rf /usr/share/nginx/html/*
 
-EXPOSE 80
-CMD ["nginx", "-g", "daemon off;"]
+COPY index.html /usr/share/nginx/html/public/index.html
