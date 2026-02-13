@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "title": "The Woodestic Games",
+    "paragraph1": "Szenvedélyünk, hogy kézműves fa társasjátékokkal percek alatt örömöt vigyünk a családok mindennapjaiba.",
+    "paragraph2": "Hiszünk benne, hogy az élet célja a tartalmas élmények megélése. 2012 óta folyamatosan fejlesztjük termékeink minőségét és megjelenését.",
+    "cta": "Kattints ide"
+  },
+  "games": [
+    "Crokinole",
+    "Carrooka",
+    "Carrom",
+    "Shuffleboard",
+    "És még több"
+  ],
+  "badges": {
+    "over10Years": "több mint 10 év",
+    "over8000Sold": "több mint 8000\neladott játék"
+  },
+  "videos": {
+    "cta": "Látni akarom őket",
+    "items": [
+      "crokinole videó",
+      "carrooka videó",
+      "carrom videó"
+    ]
+  },
+  "testimonials": {
+    "title": "Vásárlóink mondták",
+    "items": [
+      "Hamarosan magyar vásárlói vélemények...",
+      "Hamarosan magyar vásárlói vélemények...",
+      "Hamarosan magyar vásárlói vélemények...",
+      "Hamarosan magyar vásárlói vélemények..."
+    ],
+    "cta": "Mutasd!"
+  },
+  "footer": {
+    "explore": "Fedezd fel a csodás Woodestic játékokat",
+    "exploreCta": "Kattints ide",
+    "links": [
+      "Crokinole family",
+      "Carrooka",
+      "Carrom",
+      "Shuffleboard",
+      "PitRush",
+      "Sling",
+      "Puff Billiards Mini",
+      "& hamarosan még több"
+    ],
+    "newsletter": "Iratkozz fel hírlevelünkre.",
+    "subscribe": "Feliratkozás"
+  },
+  "cookie": {
+    "message": "Cookie-kat használunk analitikához és a jobb felhasználói élményhez.",
+    "accept": "Elfogadom",
+    "decline": "Elutasítom"
+  }
+}
