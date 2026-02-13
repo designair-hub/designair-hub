@@ -1,0 +1,38 @@
+{
+  "brand": {
+    "name": "Woodestic",
+    "tagline": "We revive wood"
+  },
+  "hero": {
+    "title": "The Woodestic Games",
+    "paragraph1": "Our passion is to bring joy into families' everyday lives through handcrafted wooden board games.",
+    "paragraph2": "Since introducing Woodestic Crokinole boards in 2012, we have continuously improved quality and appeal.",
+    "cta": "Click here"
+  },
+  "games": ["Crokinole", "Carrooka", "Carrom", "Shuffleboard", "And more"],
+  "badges": {
+    "years": "years",
+    "sold": "sold games"
+  },
+  "videos": {
+    "cta": "I wanna see them",
+    "items": ["crokinole video", "carrooka video", "carrom video"]
+  },
+  "testimonials": {
+    "title": "Our customers said",
+    "items": [
+      "\"Recently I discovered the game...\"\n- Luis",
+      "\"Beautiful quality and excellent customer service.\"\n- Robert",
+      "\"Even better in person than in photos.\"\n- Wouter",
+      "\"Quick, friendly responses and great product.\"\n- Iwan"
+    ],
+    "cta": "Show me!"
+  },
+  "footer": {
+    "explore": "Check out all the magnificent Woodestic Games",
+    "exploreCta": "Click here",
+    "links": ["Crokinole", "Carrooka", "Carrom", "Shuffleboard", "and more"],
+    "newsletter": "Get onBOARD with our newsletter.",
+    "subscribe": "Subscribe"
+  }
+}

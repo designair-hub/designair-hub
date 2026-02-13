@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @designair-hub
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Woodestic microsite scaffold
 
-<!---
-designair-hub/designair-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Statikus microsite sablon a csatolt design alapján, előkészített többnyelvűséggel (HU/EN), placeholder képekkel és Dockeres futtatással.
+
+## Struktúra
+
+- `public/index.html` – oldal struktúra.
+- `public/assets/css/main.css` – stílusok.
+- `public/assets/js/i18n.js` – egyszerű kliens oldali i18n loader.
+- `public/locales/*.json` – fordítási kulcsok nyelvenként.
+- `public/assets/images/**` – képek helye placeholderrel.
+- `Dockerfile` + `docker/nginx/default.conf` – produkciós statikus kiszolgálás.
+
+## Lokális futtatás
+
+```bash
+python3 -m http.server 8080 --directory public
+```
+
+## Docker futtatás
+
+```bash
+docker build -t woodestic-microsite .
+docker run --rm -p 8080:80 woodestic-microsite
+```
