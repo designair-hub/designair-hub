@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "title": "Woodestic Spiele",
+    "paragraph1": "Unsere Leidenschaft ist es, mit handgefertigten Holzbrettspielen innerhalb weniger Minuten Freude in den Alltag von Familien zu bringen – damit echte menschliche Verbindungen in dieser digitalen Welt wachsen können.",
+    "paragraph2": "Wir glauben, dass das ultimative Ziel des Lebens darin liegt, erfüllende Erlebnisse zu sammeln. Seit der Einführung der Woodestic-Crokinole-Boards im Jahr 2012 haben wir die Qualität und Ausstrahlung unserer Produkte kontinuierlich weiterentwickelt. Wir sind stolz darauf, jedes einzelne Board mit größter Sorgfalt zu fertigen.",
+    "cta": "Hier klicken"
+  },
+  "games": [
+    "Crokinole",
+    "Carrooka",
+    "Carrom",
+    "Shuffleboard",
+    "Und mehr"
+  ],
+  "badges": {
+    "over10Years": "über 10 Jahre",
+    "over8000Sold": "über 8.000\nverkaufte Spiele"
+  },
+  "videos": {
+    "cta": "Ich möchte sie sehen",
+    "items": [
+      "crokinole video",
+      "carrooka video",
+      "carrom video"
+    ]
+  },
+  "testimonials": {
+    "title": "Das sagen unsere Kunden",
+    "items": [
+      "„Kürzlich habe ich das Spiel Crokinole entdeckt und wollte unbedingt ein eigenes Board haben. Bei meiner Recherche online stieß ich auf viele Reviews in Foren und auf YouTube. Meistens wurde Woodestic dafür gelobt, das beste Crokinole-Board in Europa zu haben.\nDer Besuch eurer Website hat mich endgültig überzeugt, dass Woodestic für Qualität und Leidenschaft steht.\nDas Board selbst und die Art, wie man es mit allen möglichen Optionen zusammenstellen kann, lassen die Konkurrenz weit hinter sich – und das Board macht selbst einen sehr hochwertigen Eindruck!”\n\n~ Luis",
+      "„Es ist wirklich wunderschön und ich bin sehr zufrieden damit. Vielen Dank auch für die kleinen Halter für die Spielsteine. Ehrlich, danke für den hervorragenden Kundenservice – ihr stellt ein wunderbares Produkt her, aber euer Service übertrifft alles, was ich bisher erlebt habe.”\n\n~ Robert",
+      "„Das Board selbst ist im echten Leben noch viel wunderbarer als auf den Bildern. Ich bin sehr glücklich mit meiner Wahl von Muster und Farben.\n\nSeitdem ich das Board erhalten habe, habe ich es mit Kindern über 6 Jahren gespielt, mit 'Hardcore'-Brettspielern, mit meiner nicht-spielbegeisterten Partnerin und mit Großeltern. Alle lieben es. Für mich ist das in Sachen Brettspiele einzigartig.\n\nDas Board hat einen prominenten Platz in meinem Wohnzimmer. Ich werde euch direkt nach dieser E-Mail ein Foto schicken.\n\nIch freue mich darauf, dieses Board noch viele Jahre zu spielen und zu schätzen.”\n\n~ Wouter, Niederlande, Crokinole Elite",
+      "„Schnelle und freundliche Antworten, gute Kommunikation. Das Produkt ist super schön und von hoher Qualität. Die spezielle Tasche zur Aufbewahrung des Boards und zum Schutz ist ein Must-have. Mein Sohn und meine Frau lieben diesen rundum gelungenen Kauf! Yesss, ich kann es empfehlen!”\n\n~ Iwan, Niederlande"
+    ],
+    "cta": "Zeig mir!"
+  },
+  "footer": {
+    "explore": "Entdecke alle großartigen Woodestic-Spiele",
+    "exploreCta": "Hier klicken",
+    "links": [
+      "Crokinole Family",
+      "Carrooka",
+      "Carrom",
+      "Shuffleboard",
+      "PitRush",
+      "Sling",
+      "Puff Billiards Mini",
+      "& mehr kommt noch"
+    ],
+    "newsletter": "Steig ein in unseren Newsletter.",
+    "subscribe": "Abonnieren"
+  },
+  "cookie": {
+    "message": "Wir verwenden Cookies für Analytics und zur Verbesserung der Website-Erfahrung.",
+    "accept": "Cookies akzeptieren",
+    "decline": "Ablehnen"
+  }
+}

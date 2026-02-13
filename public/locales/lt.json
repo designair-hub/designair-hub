@@ -1,0 +1,58 @@
+{
+  "hero": {
+    "title": "Woodestic žaidimai",
+    "paragraph1": "Mūsų aistra – per kelias minutes suteikti šeimoms džiaugsmo rankomis gaminamais mediniais stalo žaidimais, kad tikros žmonių tarpusavio ryšys galėtų klestėti šiame skaitmeniniame pasaulyje.",
+    "paragraph2": "Tikime, kad gyvenimo galutinis tikslas – patirti prasmingas ir pilnavertes akimirkas. Nuo 2012 m., kai pristatėme Woodestic Crokinole lentas, nuolat tobuliname savo produktų kokybę ir patrauklumą. Didžiuojamės kurdami kiekvieną unikalią lentą.",
+    "cta": "Spustelėkite čia"
+  },
+  "games": [
+    "Crokinole",
+    "Carrooka",
+    "Carrom",
+    "Shuffleboard",
+    "Ir daugiau"
+  ],
+  "badges": {
+    "over10Years": "daugiau nei 10 metų",
+    "over8000Sold": "parduota daugiau nei 8 000 žaidimų"
+  },
+  "videos": {
+    "cta": "Noriu juos pamatyti",
+    "items": [
+      "crokinole video",
+      "carrooka video",
+      "carrom video"
+    ]
+  },
+  "testimonials": {
+    "title": "Ką sako mūsų klientai",
+    "items": [
+      "Neseniai atradau žaidimą Crokinole ir norėjau turėti savo lentą. Ieškodamas internete radau daug apžvalgų forumuose ir YouTube. Daugeliu atvejų Woodestic buvo girta kaip geriausia Crokinole lenta Europoje. Apsilankymas jūsų svetainėje įtikino mane, kad Woodestic iš tiesų reiškia kokybę ir aistrą. Pats stalas ir galimybė jį sudaryti su visomis galimomis opcijomis pranoksta konkurentus, o stalas atrodo itin kokybiškas! ~ Luis",
+      "Jis tikrai gražus ir aš juo labai patenkintas. Labai ačiū už mažus žetonų laikiklius. Rimtai, ačiū už puikų klientų aptarnavimą – jūs kuriate nuostabų produktą, bet jūsų aptarnavimo lygis viršija viską, ką esu patyręs gyvenime. ~ Robert",
+      "Lenta realybėje yra dar nuostabesnė nei nuotraukose. Esu labai patenkintas savo pasirinkimu dėl rašto ir spalvų. Nuo tada, kai gavau lentą, žaidžiau su vaikais vyresniais nei 6 metai, su „hardcore“ stalo žaidėjais, su savo nežaidžiančia partnere ir su seneliais. Visi ją mėgsta. Mano manymu, tai unikalus žaidimas tarp stalo žaidimų. Lenta užima svarbią vietą mano svetainėje. Išsiųsiu jums nuotrauką iškart po šio el. laiško. Laukiu daug metų žaisdamas ir brangindamas šią lentą. ~ Wouter, Nyderlandai, Crokinole Elite",
+      "Greiti ir draugiški atsakymai, gera komunikacija. Produktas labai gražus ir aukštos kokybės. Speciali maišelio laikyti lentą ir apsaugoti ją būtinybė. Mano sūnus ir žmona dievina šį pilną pirkimą! Taip, rekomenduoju! ~ Iwan, Nyderlandai"
+    ],
+    "cta": "Parodyk man!"
+  },
+  "footer": {
+    "explore": "Atraskite visus nuostabius Woodestic žaidimus",
+    "exploreCta": "Spustelėkite čia",
+    "links": [
+      "Crokinole Family",
+      "Carrooka",
+      "Carrom",
+      "Shuffleboard",
+      "PitRush",
+      "Sling",
+      "Puff Billiards Mini",
+      "& dar daugiau žaidimų ateityje"
+    ],
+    "newsletter": "Prisijunkite prie mūsų naujienlaiškio.",
+    "subscribe": "Prenumeruoti"
+  },
+  "cookie": {
+    "message": "Naudojame slapukus analitikai ir geresnei svetainės patirčiai.",
+    "accept": "Sutinku",
+    "decline": "Atmesti"
+  }
+}
