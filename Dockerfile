@@ -1,6 +1,5 @@
 FROM nginxinc/nginx-unprivileged:1.27-alpine
 
-COPY docker/nginx/default.conf /etc/nginx/conf.d/default.conf
 COPY public /usr/share/nginx/html
 
 HEALTHCHECK --interval=30s --timeout=5s --start-period=10s --retries=3 \
